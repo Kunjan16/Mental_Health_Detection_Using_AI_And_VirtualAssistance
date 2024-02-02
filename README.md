@@ -5,6 +5,8 @@ Mental energy chatbots are AI-stimulate uses designed to supply support, news, a
 
 
 SLIDER
+
+
 Step 1: Mental Health AssessmentThe Mental Health Slider is a handy form created to determine an individual's insane well-being. It exists of 12 questions had connection with miscellaneous facets of insane strength. Users can specify their reactions by gliding the bar guide each question from 0 to 5, place 0 shows "Not at all" and 5 shows "Most."Upon executing the inquiry, the Mental Health Slider create a inclusive insane health count and presents the result clearly. This diagram offers consumers a smart survey of their insane energy rank established their responses.
                       
 
